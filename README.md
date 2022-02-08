@@ -14,18 +14,6 @@
 - Linux
 - Open Source Software
 
-##### Current Hardware:
-- At the desk:
-   - Intel I7-6700K 
-   - Nvidia GTX1080 FE
-   - 32GB RAM
-   - 3TB SSD
-   - Arch Linux + BSPWM
-
-* On the move: 
-   - Dell XPS 13
-   - Arch Linux + KDE
-
 ##### You Can Find Me:
 - [Twitter](https://www.twitter.com/elevensghost)
 - [Website **under construction**](https://www.thebluenowhere.net)
