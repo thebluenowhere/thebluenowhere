@@ -1,16 +1,34 @@
-### Hi there 👋
+### "All those moments will be lost in time, like tears in rain."
 
-<!--
-**thebluenowhere/thebluenowhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hi there, my name is Michael and I'm doing my best to _learn_ how to learn. 
 
-Here are some ideas to get you started:
+##### About Me:
+- 32
+- Tech Enthusiast
+- Pronouns: He/Him
+- Fan of sci-fi & fantasy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Currently Focusing On:
+- Python 
+- Bash
+- Linux
+- Open Source Software
+
+##### Current Hardware:
+- At the desk:
+   - Intel I7-6700K 
+   - Nvidia GTX1080 FE
+   - 32GB RAM
+   - 3TB SSD
+   - Arch Linux + BSPWM
+
+* On the move: 
+   - Dell XPS 13
+   - Arch Linux + KDE
+
+##### You Can Find Me:
+- [Twitter](https://www.twitter.com/elevensghost)
+- [Website **under construction**][https://www.thebluenowhere.net]
+- Email: michael@thebluenowhere.net
+- Discord: eleven#0002
+
