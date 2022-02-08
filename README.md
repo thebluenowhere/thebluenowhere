@@ -28,7 +28,7 @@
 
 ##### You Can Find Me:
 - [Twitter](https://www.twitter.com/elevensghost)
-- [Website **under construction**][https://www.thebluenowhere.net]
+- [Website **under construction**](https://www.thebluenowhere.net)
 - Email: michael@thebluenowhere.net
 - Discord: eleven#0002
 
