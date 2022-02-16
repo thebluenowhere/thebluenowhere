@@ -1,6 +1,4 @@
-### "All those moments will be lost in time, like tears in rain."
-
-##### Hi there, my name is Michael and I'm doing my best to _learn_ how to learn. 
+##### Hi there, my name is Michael and I'm doing my best to learn how to _learn_. 
 
 ##### About Me:
 - 32
