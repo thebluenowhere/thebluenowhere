@@ -1,10 +1,8 @@
 ##### Hi there, my name is Michael and I'm doing my best to learn how to _learn_. 
 
 ##### About Me:
-- 32
 - Tech Enthusiast
 - Pronouns: He/Him
-- Fan of sci-fi & fantasy
 
 ##### Currently Focusing On:
 - Python 
