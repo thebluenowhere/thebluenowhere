@@ -1,4 +1,4 @@
-##### Hi there, my name is Michael and I'm doing my best to learn how to _learn_. 
+##### Hi there, my name is Michael
 
 ##### About Me:
 - Tech Enthusiast
@@ -11,8 +11,6 @@
 - Open Source Software
 
 ##### You Can Find Me:
-- [Twitter](https://www.twitter.com/elevensghost)
-- [Website **under construction**](https://www.thebluenowhere.net)
-- Email: michael@thebluenowhere.net
+- Email: thebluenowhere@protonmail.com
 - Discord: eleven#0002
 
