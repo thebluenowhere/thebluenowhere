@@ -14,3 +14,4 @@
 - Email: thebluenowhere@protonmail.com
 - Discord: eleven#0002
 
+![alt text](https://www.sololearn.com/certificates/CT-N8R060XU)
