@@ -14,4 +14,4 @@
 - Email: thebluenowhere@protonmail.com
 - Discord: eleven#0002
 
-![PythonCert.png]PythonCert)
+![PythonCert]PythonCert.png)
