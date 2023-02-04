@@ -12,6 +12,7 @@
 
 ##### You Can Find Me:
 - Email: thebluenowhere@protonmail.com
-- Discord: eleven#0002
+- Discord: eleven#5875
+
 
 ![PythonCert](PythonCert.png)
