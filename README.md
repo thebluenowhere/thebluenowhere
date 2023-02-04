@@ -1,3 +1,5 @@
+![PythonCert]PythonCert.png)
+
 ##### Hi there, my name is Michael
 
 ##### About Me:
@@ -14,4 +16,3 @@
 - Email: thebluenowhere@protonmail.com
 - Discord: eleven#0002
 
-![PythonCert]PythonCert.png)
