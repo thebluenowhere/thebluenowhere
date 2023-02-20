@@ -13,6 +13,3 @@
 ##### You Can Find Me:
 - Email: thebluenowhere@protonmail.com
 - Discord: elevynn#5875
-
-
-![PythonCert](PythonCert.png)
